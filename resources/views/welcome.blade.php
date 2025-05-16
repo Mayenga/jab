@@ -256,7 +256,7 @@
                             <li><a class='drop-item' href= '/policies'>Policies</a></li>
                         </ul>
                     </li>
-                    <li><a class='drop-item' href= '#'>Journalist Register</a></li>
+                    <li><a class='drop-item' href= 'https://taihabari.jab.go.tz'>Journalist Register</a></li>
                     <li><a class='drop-item' href= '#'>Our Trainings</a></li>
                     <li><a class='drop-item' href= '/contacts'>Contact Us</a></li>
                 </ul>
@@ -895,7 +895,7 @@
                                                            href="https://mail.jab.go.tz/">e-Office System</a></div>
                                                             <div class="pr-1 py-2"><a style="color: #000"  target="_blank"
                                                           rel="noopener noreferrer"
-                                                           href="#">Journalist Register</a></div>
+                                                           href="https://taihabari.jab.go.tz">Journalist Register</a></div>
                                                             <div class="pr-1 py-2"><a style="color: #000"  target="_blank"
                                                           rel="noopener noreferrer"
                                                            href="#">Our Trainings</a></div>

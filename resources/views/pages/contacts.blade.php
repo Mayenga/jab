@@ -256,7 +256,7 @@
                             <li><a class='drop-item' href= '/policies'>Policies</a></li>
                         </ul>
                     </li>
-                    <li><a class='drop-item' href= '#'>Journalist Register</a></li>
+                    <li><a class='drop-item' href= 'https://taihabari.jab.go.tz'>Journalist Register</a></li>
                     <li><a class='drop-item' href= '#'>Our Trainings</a></li>
                     <li><a class='drop-item' href= '/contacts'>Contact Us</a></li>
                 </ul>
